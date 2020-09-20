@@ -5,6 +5,7 @@ idea:
 2) create a database of prices, book specifications
 3) build an output for best value purchases (currency conversion, delivery, language, etc)
 
+inspired by looking for best prices of books listed at https://www.readthistwice.com/lists/best-machine-learning-books?s=rlearnmachinelearning
 
 bookshops:
 https://book24.ua/
